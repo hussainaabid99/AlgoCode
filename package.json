@@ -19,7 +19,7 @@
     "react-ace": "^14.0.1",
     "react-dom": "^19.0.0",
     "react-markdown": "^10.1.0",
-    "remark-rehype": "^11.1.2",
+    "rehype-raw": "^7.0.0",
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
