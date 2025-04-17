@@ -11,9 +11,15 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
+    "@types/dompurify": "^3.0.5",
+    "ace-builds": "^1.40.0",
+    "dompurify": "^3.2.5",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "react": "^19.0.0",
+    "react-ace": "^14.0.1",
     "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "remark-rehype": "^11.1.2",
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {

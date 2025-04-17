@@ -1,4 +1,12 @@
 @import "tailwindcss";
 @plugin "daisyui" {
-     themes: dark --default;
+  themes: dracula --default;
+}
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-xl;
+  }
 }
